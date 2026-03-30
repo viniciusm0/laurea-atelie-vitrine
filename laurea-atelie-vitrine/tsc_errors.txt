@@ -1,0 +1,16 @@
+src/App.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
+src/components/Footer.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
+src/components/Navbar.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
+src/components/Navbar.tsx(3,10): error TS1484: 'BaseColor' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/components/Navbar.tsx(3,21): error TS1484: 'WritingColor' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/components/ProductCard.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
+src/components/ProductCard.tsx(2,10): error TS1484: 'ProductVariant' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/components/RibbonSection.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
+src/service/mockBaseColors.ts(1,10): error TS1484: 'BaseColor' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/service/mockProducts.ts(1,10): error TS1484: 'ProductSection' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/service/mockProducts.ts(1,26): error TS1484: 'ProductVariant' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/service/mockRibbonColors.ts(1,10): error TS1484: 'RibbonColor' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/service/mockWritingColors.ts(1,10): error TS1484: 'WritingColor' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/views/Home.tsx(1,8): error TS6133: 'React' is declared but its value is never read.
+src/views/Home.tsx(7,10): error TS1484: 'BaseColor' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/views/Home.tsx(7,21): error TS1484: 'WritingColor' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
